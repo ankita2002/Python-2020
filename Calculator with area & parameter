@@ -1,0 +1,83 @@
+def Circle():
+  print("Enter radius\n")
+  r = int(input())
+  a = 3.142*r*r
+  p = 2*3.142*r
+  print("Area:",a)
+  print("Perimeter",p)
+  return 0
+ 
+def Square():
+  print("Enter length of side\n")
+  r = int(input())
+  a = r*r
+  p = 4*r
+  print("Area:",a)
+  print("Perimeter",p)
+  return 0
+
+def Rectangle():
+  print("Enter a & b\n")
+  l = int(input())
+  b = int(input())
+  a = l*b
+  p = 2*(l+b)
+  print("Area:",a)
+  print("Perimeter",p)
+  return 0
+ 
+def Add():
+  print("Enter length & breadth\n")
+  a = int(input())
+  b = int(input())
+  print("Add:",a+b)
+  return 0 
+  
+def Sub():
+  print("Enter a & b\n")
+  a = int(input())
+  b = int(input())
+  #a, b = map.(int,input().split())
+  print("Sub:",a-b)
+  return 0
+  
+def Mul():
+  print("Enter a & b\n")
+  a = int(input())
+  b = int(input())
+  #a, b = map.(int,input().split())
+  print("Multiplication:",a*b)
+  return 0
+  
+def Div():
+  print("Enter a & b\n")
+  a = int(input())
+  b = int(input())
+  #a, b = map.(int,input().split())
+  print("Division:",a/b)
+  return 0
+
+print("OPTIONS:\n1:Circle\n2:Square\n3:Rectangle\n4:Add\n5:Sub\n6:Mul\n7:div")
+opt = int(input())
+if opt==1:
+  c = Circle() 
+elif opt==2:
+  c = Square()
+elif opt==3:
+  c = Rectangle()
+elif opt==4:
+  c = Add()
+elif opt==5:
+  c = Sub()
+elif opt==6:
+  c = Mul()
+elif opt==7:
+  c = Div()
+  
+else:
+  print("Invalid")
+
+
+
+
+
