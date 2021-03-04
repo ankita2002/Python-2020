@@ -55,15 +55,30 @@ This Program reads a file & outputs the no of lines in that file
 *******
 <h2>Screenshot</h2>
 This Program takes the Screenshot of the Screen & Saves the image in the folder where file is stored.
-<h2>Battery Percent</h2>
-<h2>Battery Percent</h2>
-<h2>Battery Percent</h2>
-<h2>Battery Percent</h2>
-<h2>Battery Percent</h2>
-<h2>Battery Percent</h2>
-<h2>Battery Percent</h2>
-<h2>Battery Percent</h2>
-<h2>Battery Percent</h2>
-<h2>Battery Percent</h2>
-<h2>Battery Percent</h2>
-<h2>Battery Percent</h2>
+<h2>Starter Template</h2>
+<h2>Typing Speed</h2>
+Typing Speed is calculated by using total no of words wriiten in variable time
+<h2>Weather Report</h2>
+This program outputs the weather report of input city
+<h2>Whatsapp text</h2>
+This is a timer based text, it will automatically text the other user if correct details are provided.
+<h2>Youtube Audio Download</h2>
+This program helps you to download any youtube audio using the link
+<h2>Youtube video Download</h2>
+This program helps you to download any youtube video using the link
+<h2>Line Graph</h2>
+This provides a line Graph for input statistical data
+<h2>My wiki</h2>
+Input Anything and the output will contain the wikipedia information about the same
+<h2>Optional Password Generator</h2>
+******
+<h2>Stone Paper Scissor</h2>
+********
+<h2>Talking PC</h2>
+Text to Speech 
+<h2>CPU Info</h2>
+This Program Proves CPU Information
+<h2>Notifiication</h2>
+This sends Notification in the system
+<h2>URL Shortner</h2>
+This program shortens the URL
