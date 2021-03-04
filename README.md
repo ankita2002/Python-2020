@@ -28,9 +28,9 @@ This program helps us to generate Emojies
 <h2>GUI Calendar</h2>
 This is a GUI Based Calendar, where you need to input year of which you want the calendar
 <h2>GUI SHA</h2>
-****
+This is a Tkinter based GUI application program for SHA - 1
 <h2>Graphic Password</h2>
-*****
+It is a tkinter Based Graphical Password Generator
 <h2>Greatest No </h2> 
 This is basic program to find Greatest No.
 <h2>Movie Info</h2>
@@ -42,9 +42,9 @@ GUI Based Music Player which supports mp3 files
 <h2>Octagon</h2>
 This is a tkinter based program which draws Octagonal patterns
 <h2>Password Generator - 1</h2>
-***
+Basic Password Generator with no GUI
 <h2>Password Generator -2</h2> 
-**********
+Basic Password Generator with no GUI
 <h2>Progress bar in for loop</h2>
 This shows a graphical representation of each iteration in for loop
 <h2>Rainbow</h2>
@@ -52,7 +52,7 @@ This is a tkinter based program which draws Rainbow patterns
 <h2>Read a file</h2>
 This Program reads a file & outputs the no of lines in that file
 <h2>SHA - 1</h2>
-*******
+This is just a simple application program for SHA - 1
 <h2>Screenshot</h2>
 This Program takes the Screenshot of the Screen & Saves the image in the folder where file is stored.
 <h2>Starter Template</h2>
@@ -71,9 +71,9 @@ This provides a line Graph for input statistical data
 <h2>My wiki</h2>
 Input Anything and the output will contain the wikipedia information about the same
 <h2>Optional Password Generator</h2>
-******
+Basic Password Generator 
 <h2>Stone Paper Scissor</h2>
-********
+Basic Rock Paper Scissor Program (text based)
 <h2>Talking PC</h2>
 Text to Speech 
 <h2>CPU Info</h2>
